@@ -1,0 +1,2 @@
+rootProject.name = "Compose First"
+include ':app'
